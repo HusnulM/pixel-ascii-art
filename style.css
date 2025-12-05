@@ -1,0 +1,24 @@
+html,
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    white-space: pre;
+    line-height: 6pt;
+}
+
+canvas {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+
+div {
+    width: 50%;
+    /* Or any specific width like 400px */
+    margin: 0 auto;
+    /* This is the key for horizontal centering */
+}
